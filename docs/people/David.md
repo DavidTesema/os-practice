@@ -1,1 +1,1 @@
-Hi, my name is David and this is my first time contributing to open source
+Hi, my name is David and this is my first time contributing to open source.
